@@ -32,7 +32,7 @@ for other potential installation dependencies, notably:
 
 Then
 
-* Example1: Process as ./dump_rt.x but shows progress graphically.
+* Example1: Process as `./dump_rt.x` but shows progress graphically.
 
      `$ make ez_show_rt`
 
